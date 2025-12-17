@@ -73,7 +73,7 @@ This layered design ensures **high cohesion** and **low coupling**.
 
 ---
 
-## 📐 UML Diagram (Highlighted)
+## 📐 UML Diagram
 
 The UML diagram illustrates:
 
@@ -86,7 +86,7 @@ The UML diagram illustrates:
 ![UML](uml.png)
 ---
 
-## 📊 Data Structures Usage (Visual Concept)
+## 📊 Data Structures Usage
 
 | Data Structure | Used For |
 |---------------|---------|
