@@ -205,7 +205,7 @@ This ensures consistency across executions while respecting project constraints.
 
 ## ✅ Conclusion
 
-This project demonstrates how **classical data structures** and **object-oriented design** can be effectively applied to solve real-world problems. By avoiding built-in collections and focusing on clean architecture, the system serves as both a **functional application** and a **strong academic showcase** for OOP, data structures, and software engineering principles.
+This project demonstrates how **classical data structures** and **object-oriented design** can be effectively applied to solve real-world problems. The system serves as both a **functional application** and a **strong academic showcase** for OOP, data structures, and software engineering principles.
 
 ---
 
