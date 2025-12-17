@@ -86,6 +86,7 @@ The UML diagram illustrates:
 ```
 ![UML](uml.png)
 
+```
 ---
 
 ## 📊 Data Structures Usage (Visual Concept)
