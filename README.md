@@ -83,10 +83,7 @@ The UML diagram illustrates:
 - Separation between data structures and business logic
 
 📎 **UML Diagram :**
-```
 ![UML](uml.png)
-
-```
 ---
 
 ## 📊 Data Structures Usage (Visual Concept)
