@@ -41,7 +41,7 @@ The result is a functional, extensible restaurant management application that mi
 
 ---
 
-## 🏗️ Program Engineering & Architecture (Highlighted)
+## 🏗️ Program Engineering & Architecture
 
 The system follows a **layered architecture** that separates concerns and improves maintainability:
 
@@ -82,7 +82,7 @@ The UML diagram illustrates:
 - Associations between Menu, Orders, Customers, and Accounting
 - Separation between data structures and business logic
 
-📎 **UML Diagram :**
+📎 **UML Diagram:**
 ![UML](uml.png)
 ---
 
