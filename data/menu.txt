@@ -1,0 +1,3 @@
+fattoush,15.0,salads
+crispy chicken,20.0,main dish
+tabboulie,7.0,salads
